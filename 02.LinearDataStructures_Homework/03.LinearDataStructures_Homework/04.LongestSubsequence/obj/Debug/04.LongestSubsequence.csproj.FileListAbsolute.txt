@@ -1,0 +1,6 @@
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\04.LongestSubsequence\bin\Debug\04.LongestSubsequence.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.csprojResolveAssemblyReference.cache
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\04.LongestSubsequence\obj\Debug\04.LongestSubsequence.pdb

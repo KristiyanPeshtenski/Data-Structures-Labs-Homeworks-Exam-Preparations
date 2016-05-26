@@ -1,0 +1,6 @@
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.LinkedStack\bin\Debug\05.LinkedStack.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.LinkedStack\bin\Debug\05.LinkedStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.LinkedStack\bin\Debug\05.LinkedStack.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.LinkedStack\obj\Debug\05.LinkedStack.csprojResolveAssemblyReference.cache
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.LinkedStack\obj\Debug\05.LinkedStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.LinkedStack\obj\Debug\05.LinkedStack.pdb

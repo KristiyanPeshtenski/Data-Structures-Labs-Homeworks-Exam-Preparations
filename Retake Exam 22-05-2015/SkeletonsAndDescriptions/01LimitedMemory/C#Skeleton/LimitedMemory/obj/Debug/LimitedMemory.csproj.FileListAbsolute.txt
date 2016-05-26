@@ -1,0 +1,6 @@
+D:\OneDrive\Work\Softuni\Data Structures\Retake Exam 22-05-2015\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory\bin\Debug\LimitedMemory.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\Retake Exam 22-05-2015\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory\bin\Debug\LimitedMemory.exe
+D:\OneDrive\Work\Softuni\Data Structures\Retake Exam 22-05-2015\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory\bin\Debug\LimitedMemory.pdb
+D:\OneDrive\Work\Softuni\Data Structures\Retake Exam 22-05-2015\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory\obj\Debug\LimitedMemory.csprojResolveAssemblyReference.cache
+D:\OneDrive\Work\Softuni\Data Structures\Retake Exam 22-05-2015\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory\obj\Debug\LimitedMemory.exe
+D:\OneDrive\Work\Softuni\Data Structures\Retake Exam 22-05-2015\SkeletonsAndDescriptions\01LimitedMemory\C#Skeleton\LimitedMemory\obj\Debug\LimitedMemory.pdb

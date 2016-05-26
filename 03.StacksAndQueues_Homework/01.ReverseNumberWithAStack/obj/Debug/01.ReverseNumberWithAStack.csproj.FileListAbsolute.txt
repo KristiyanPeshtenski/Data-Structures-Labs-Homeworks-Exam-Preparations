@@ -1,0 +1,9 @@
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\01.ReverseNumberWithAStack\bin\Debug\01.ReverseNumberWithAStack.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\01.ReverseNumberWithAStack\bin\Debug\01.ReverseNumberWithAStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\01.ReverseNumberWithAStack\bin\Debug\01.ReverseNumberWithAStack.pdb
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\01.ReverseNumberWithAStack\obj\Debug\01.ReverseNumberWithAStack.csprojResolveAssemblyReference.cache
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\01.ReverseNumberWithAStack\obj\Debug\01.ReverseNumberWithAStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\01.ReverseNumberWithAStack\obj\Debug\01.ReverseNumberWithAStack.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\01.ReverseNumberWithAStack\bin\Debug\01.ReverseNumberWithAStack.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\01.ReverseNumberWithAStack\obj\Debug\01.ReverseNumberWithAStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\01.ReverseNumberWithAStack\obj\Debug\01.ReverseNumberWithAStack.pdb

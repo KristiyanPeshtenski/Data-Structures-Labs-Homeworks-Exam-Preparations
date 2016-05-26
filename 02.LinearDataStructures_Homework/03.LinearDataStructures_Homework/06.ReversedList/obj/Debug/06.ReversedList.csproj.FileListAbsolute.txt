@@ -1,0 +1,6 @@
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.ReversedList\bin\Debug\06.ReversedList.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.ReversedList\bin\Debug\06.ReversedList.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.ReversedList\bin\Debug\06.ReversedList.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.ReversedList\obj\Debug\06.ReversedList.csprojResolveAssemblyReference.cache
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.ReversedList\obj\Debug\06.ReversedList.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.ReversedList\obj\Debug\06.ReversedList.pdb

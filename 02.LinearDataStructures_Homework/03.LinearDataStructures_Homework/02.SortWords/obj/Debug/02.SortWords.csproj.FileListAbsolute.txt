@@ -1,0 +1,5 @@
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\02.SortWords\bin\Debug\02.SortWords.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\02.SortWords\bin\Debug\02.SortWords.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\02.SortWords\bin\Debug\02.SortWords.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\02.SortWords\obj\Debug\02.SortWords.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\02.SortWords\obj\Debug\02.SortWords.pdb

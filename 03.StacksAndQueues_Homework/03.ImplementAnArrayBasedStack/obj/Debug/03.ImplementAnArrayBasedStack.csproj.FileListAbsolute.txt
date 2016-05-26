@@ -1,0 +1,12 @@
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\bin\Debug\03.ImplementAnArrayBasedStack.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\bin\Debug\03.ImplementAnArrayBasedStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\bin\Debug\03.ImplementAnArrayBasedStack.pdb
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\obj\Debug\03.ImplementAnArrayBasedStack.csprojResolveAssemblyReference.cache
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\obj\Debug\03.ImplementAnArrayBasedStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\obj\Debug\03.ImplementAnArrayBasedStack.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\bin\Debug\03.ImplementAnArrayBasedStack.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\obj\Debug\03.ImplementAnArrayBasedStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\obj\Debug\03.ImplementAnArrayBasedStack.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\bin\Debug\03.ImplementAnArrayBasedStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\bin\Debug\03.ImplementAnArrayBasedStack.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\03.ImplementAnArrayBasedStack\obj\Debug\03.ImplementAnArrayBasedStack.csprojResolveAssemblyReference.cache

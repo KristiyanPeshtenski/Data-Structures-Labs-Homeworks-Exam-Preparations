@@ -1,0 +1,5 @@
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.CountOccurences\bin\Debug\06.CountOccurences.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.CountOccurences\bin\Debug\06.CountOccurences.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.CountOccurences\bin\Debug\06.CountOccurences.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.CountOccurences\obj\Debug\06.CountOccurences.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.LinearDataStructures_Homework\03.LinearDataStructures_Homework\06.CountOccurences\obj\Debug\06.CountOccurences.pdb

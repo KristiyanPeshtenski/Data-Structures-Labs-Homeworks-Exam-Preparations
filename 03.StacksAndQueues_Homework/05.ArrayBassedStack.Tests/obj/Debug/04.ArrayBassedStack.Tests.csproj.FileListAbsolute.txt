@@ -1,0 +1,8 @@
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.ArrayBassedStack.Tests\bin\Debug\05.ArrayBassedStack.Tests.dll
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.ArrayBassedStack.Tests\bin\Debug\05.ArrayBassedStack.Tests.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.ArrayBassedStack.Tests\bin\Debug\03.ImplementAnArrayBasedStack.exe
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.ArrayBassedStack.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.ArrayBassedStack.Tests\bin\Debug\03.ImplementAnArrayBasedStack.pdb
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.ArrayBassedStack.Tests\obj\Debug\04.ArrayBassedStack.Tests.csprojResolveAssemblyReference.cache
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.ArrayBassedStack.Tests\obj\Debug\05.ArrayBassedStack.Tests.dll
+D:\OneDrive\Work\Softuni\Data Structures\03.StacksAndQueues_Homework\05.ArrayBassedStack.Tests\obj\Debug\05.ArrayBassedStack.Tests.pdb

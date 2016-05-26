@@ -1,0 +1,5 @@
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe.config
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.pdb
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
+D:\OneDrive\Work\Softuni\Data Structures\04.StacksAndQueues_Homework\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb

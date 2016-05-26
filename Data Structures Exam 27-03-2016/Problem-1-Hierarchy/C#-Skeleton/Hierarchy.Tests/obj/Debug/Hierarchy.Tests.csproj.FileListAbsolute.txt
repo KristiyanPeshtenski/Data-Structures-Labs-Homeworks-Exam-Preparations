@@ -1,0 +1,7 @@
+D:\OneDrive\Work\Softuni\Data Structures\12. Data-Structures-Exam-27-March-2016\Exercice Sollution\Problem-1-Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csprojResolveAssemblyReference.cache
+D:\OneDrive\Work\Softuni\Data Structures\12. Data-Structures-Exam-27-March-2016\Exercice Sollution\Problem-1-Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.dll
+D:\OneDrive\Work\Softuni\Data Structures\12. Data-Structures-Exam-27-March-2016\Exercice Sollution\Problem-1-Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.pdb
+D:\OneDrive\Work\Softuni\Data Structures\12. Data-Structures-Exam-27-March-2016\Exercice Sollution\Problem-1-Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe
+D:\OneDrive\Work\Softuni\Data Structures\12. Data-Structures-Exam-27-March-2016\Exercice Sollution\Problem-1-Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.pdb
+D:\OneDrive\Work\Softuni\Data Structures\12. Data-Structures-Exam-27-March-2016\Exercice Sollution\Problem-1-Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.dll
+D:\OneDrive\Work\Softuni\Data Structures\12. Data-Structures-Exam-27-March-2016\Exercice Sollution\Problem-1-Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.pdb
